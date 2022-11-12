@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MD-ARBAB-SAHID
+- 👋 Hi, I’m MD ARBAB SAHID
 - 👀 I’m interested in Full Stack Web Development | DSA | System Design | DevOps
 - 🌱 I’m currently learning Data Structures and Algorithms
 
