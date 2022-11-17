@@ -7,7 +7,8 @@
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,jquery,bootstrap,nextjs,react,redux,mongodb,mysql,nodejs,express,git,github,githubactions,jenkins,aws,firebase,docker,kubernetes)](https://skillicons.dev)
-# Stats
+
+# GitHub Stats
 ![Arbab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-ARBAB-SAHID&count_private=true&theme=radical)
 
 # Socials
